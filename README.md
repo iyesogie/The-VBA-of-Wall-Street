@@ -7,6 +7,7 @@ Create a script that will loop through all the stocks for one year and output th
 •	The ticker symbol.
 -	Create a script that loop through each year of data and also total the amount. 
 -	Then have each ticker symbol displayed with their total number.
+
  
 •	Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
 -	Created a script that will loop through all the data
@@ -19,6 +20,10 @@ Create a script that will loop through all the stocks for one year and output th
 
 •	The total stock volume of the stock.
 -	Utilizing the same scripts above the total stock volume will be determined by the sum of each ticker symbol group
+
+<img width="1438" alt="Screen Shot 2021-03-30 at 9 15 13 PM" src="https://user-images.githubusercontent.com/79468835/128605979-712c75ff-2199-4f0e-8f72-f5af0db0a1d5.png">
+<img width="1373" alt="Screen Shot 2021-03-30 at 9 14 49 PM" src="https://user-images.githubusercontent.com/79468835/128605980-d9835e76-003a-44ca-8f79-79aecf982edf.png">
+<img width="1329" alt="Screen Shot 2021-03-30 at 9 14 22 PM" src="https://user-images.githubusercontent.com/79468835/128605981-5b873f28-46ed-41a7-afff-f390dc9f9b1a.png">
 
 
 Bonus
